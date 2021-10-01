@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NASA Picture</string>
+    <string name="api_key">e9r27uNETcPkCq9P8zTEJwYEHbcuADXDwimeOJZ8</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="change_layout_manager">Change Layout</string>
+    <string name="search_hint">enter date(mm-dd-yyyy)</string>
+</resources>
