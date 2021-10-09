@@ -3,6 +3,7 @@
     <string name="api_key">e9r27uNETcPkCq9P8zTEJwYEHbcuADXDwimeOJZ8</string>
 
     <string name="title_activity_fullscreen">FullscreenActivity</string>
-    <string name="change_layout_manager">Change Layout</string>
+    <string name="change_layout_manager">Search</string>
     <string name="search_hint">enter date(mm-dd-yyyy)</string>
+    <string name="search_title">Search</string>
 </resources>
